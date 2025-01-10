@@ -7,7 +7,7 @@ import threading
 import urllib.parse
 
 # Replace with your actual Gemini API Key
-GOOGLE_API_KEY = "AIzaSyBsxqpZ5cQiFrYQax7m85wtmQK9Fea-bDQ"
+GOOGLE_API_KEY = "Your API KEY"
 
 # Configure Gemini API
 genai.configure(api_key=GOOGLE_API_KEY)
